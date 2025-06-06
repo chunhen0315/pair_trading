@@ -5,8 +5,8 @@ from datetime import datetime
 import pytz
 import util
 
-api_key = "XDMzJMp2pSYue50iDgFvXMqxGhxzlWeFlraBNBi53lyw4WKDO3I8TNkA0H2Uw51R"
-api_secret = "dlFdc3ZnSUBQOt6L1dWCBurhI5TOK88oT1JeUmeFW11jIolpifSoMC5Resm9NU8T"
+api_key = ""
+api_secret = ""
 client = Client(api_key, api_secret)
 
 symbols = ['BTCUSDT', 'ETHUSDT', 'SOLUSDT', 'BNBUSDT', 'TRXUSDT', 'DOGEUSDT']
